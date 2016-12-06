@@ -1,0 +1,2 @@
+int *p;
+char *c;
